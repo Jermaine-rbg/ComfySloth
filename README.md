@@ -3,6 +3,10 @@
 - Created a development branch
 - index.js for easier imports
 
+## Screenshots
+
+![Home Page](public/screenshot4.png "Home Page")
+
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
